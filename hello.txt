@@ -1,2 +1,1 @@
-Hello Feature/Checkout
-Hello Feature/Login
+Hello
